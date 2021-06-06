@@ -1,3 +1,9 @@
 [submodule "airsm-django-restapi"]
 	path = airsm-django-restapi
 	url = https://github.com/devgraphy/airsm-django-restapi.git
+[submodule "airsm-device-front"]
+	path = airsm-device-front
+	url = https://github.com/devgraphy/airsm-device-front.git
+[submodule "airsm-member-front"]
+	path = airsm-member-front
+	url = https://github.com/devgraphy/airsm-member-front.git
