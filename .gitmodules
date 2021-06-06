@@ -1,0 +1,3 @@
+[submodule "airsm-django-restapi"]
+	path = airsm-django-restapi
+	url = https://github.com/devgraphy/airsm-django-restapi.git
